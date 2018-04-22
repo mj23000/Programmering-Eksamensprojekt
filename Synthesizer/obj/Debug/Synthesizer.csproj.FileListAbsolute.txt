@@ -1,0 +1,10 @@
+D:\Google Drive\Gymasiet\3.g\Programmering\Synthesizer\Synthesizer\bin\Debug\Synthesizer.exe.config
+D:\Google Drive\Gymasiet\3.g\Programmering\Synthesizer\Synthesizer\bin\Debug\Synthesizer.exe
+D:\Google Drive\Gymasiet\3.g\Programmering\Synthesizer\Synthesizer\bin\Debug\Synthesizer.pdb
+D:\Google Drive\Gymasiet\3.g\Programmering\Synthesizer\Synthesizer\obj\Debug\Synthesizer.Form1.resources
+D:\Google Drive\Gymasiet\3.g\Programmering\Synthesizer\Synthesizer\obj\Debug\Synthesizer.Properties.Resources.resources
+D:\Google Drive\Gymasiet\3.g\Programmering\Synthesizer\Synthesizer\obj\Debug\Synthesizer.csproj.GenerateResource.cache
+D:\Google Drive\Gymasiet\3.g\Programmering\Synthesizer\Synthesizer\obj\Debug\Synthesizer.csproj.CoreCompileInputs.cache
+D:\Google Drive\Gymasiet\3.g\Programmering\Synthesizer\Synthesizer\obj\Debug\Synthesizer.exe
+D:\Google Drive\Gymasiet\3.g\Programmering\Synthesizer\Synthesizer\obj\Debug\Synthesizer.pdb
+D:\Google Drive\Gymasiet\3.g\Programmering\Synthesizer\Synthesizer\obj\Debug\Synthesizer.csprojResolveAssemblyReference.cache
